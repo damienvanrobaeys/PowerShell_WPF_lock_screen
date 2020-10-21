@@ -1,1 +1,1 @@
-# PowerShell_WPF_lock_screen
+# A custom PowerShell and WPF lock screen
